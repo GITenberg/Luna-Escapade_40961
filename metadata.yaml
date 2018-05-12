@@ -1,0 +1,33 @@
+_repo: Luna-Escapade_40961
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40961-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fyfe, H. B. (Horace Bowne)
+    alias: Fyfe, Horace Bowne
+    birthdate: 1918
+    deathdate: 1997
+    gutenberg_agent_id: '25276'
+    url: http://www.gutenberg.org/2009/agents/25276
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40961'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Moon -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Stowaways -- Fiction'
+- !lcsh 'Runaway teenagers -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Luna Escapade
+url: http://www.gutenberg.org/ebooks/40961
